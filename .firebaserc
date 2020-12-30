@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-fb-f54df": {
+      "hosting": {
+        "ng-facebook": [
+          "ng-fb-f54df"
+        ]
+      }
+    }
+  }
+}
